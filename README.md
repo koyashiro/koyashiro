@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KoyashiroKohaku&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoyashiroKohaku&layout=compact&hide=html,vue,css&langs_count=11" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoyashiroKohaku&layout=compact&hide=html,css&langs_count=10" />
 </a>
 
 <!--
