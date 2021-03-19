@@ -1,12 +1,12 @@
 # 🦊 Koyashiro Kohaku / 狐社こはく
 
-<h2>🏆 Github Profile Trophy</h2>
+## 🏆 Github Profile Trophy
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=KoyashiroKohaku&column=7&theme=onedark&no-frame=true"/>
 </a>
 
-<h2>📝 GitHub Readme Stats</h2>
+## 📝 GitHub Readme Stats
   
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
