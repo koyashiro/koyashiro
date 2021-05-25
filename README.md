@@ -3,7 +3,7 @@
 ## 🏆 Github Profile Trophy
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=koyashiro&column=7&theme=onedark&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=koyashiro&column=8&theme=onedark&no-frame=true"/>
 </a>
 
 ## 📝 GitHub Readme Stats
