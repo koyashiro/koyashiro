@@ -7,7 +7,7 @@
 </a>
 
 ## 📝 GitHub Readme Stats
-  
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=koyashiro&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" />
