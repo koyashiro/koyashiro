@@ -13,7 +13,7 @@
     <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=koyashiro&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyashiro&layout=compact&hide=html,css&langs_count=10&theme=onedark" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyashiro&layout=compact&langs_count=10&theme=onedark" />
   </a>
 </div>
 
