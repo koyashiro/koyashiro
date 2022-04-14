@@ -30,19 +30,6 @@
   </a>
 </div>
 
-## 🔥 GitHub Readme Streak Stats
-
-<div>
-  <a href="https://git.io/streak-stats">
-    <img
-      src="http://github-readme-streak-stats.herokuapp.com?user=koyashiro&theme=dark"
-      alt="GitHub Readme Streak Stats"
-      align="middle"
-      width="800"
-    />
-  </a>
-</div>
-
 <!--
 **koyashiro/koyashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
