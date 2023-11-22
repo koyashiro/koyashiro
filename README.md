@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=koyashiro&column=8&theme=onedark&no-frame=true"
+    src="https://github-profile-trophy.vercel.app/?username=koyashiro&column=5&theme=onedark&no-frame=true"
     alt="GitHub Profile Trophy"
     width="800"
   />
@@ -18,14 +18,14 @@
       src="https://github-readme-stats.vercel.app/api?username=koyashiro&count_private=true&include_all_commits=true&show_icons=true&theme=onedark"
       alt="GitHub Stats"
       align="left"
-      height="190"
+      height="205"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyashiro&layout=compact&langs_count=10&theme=onedark"
       alt="Top Languages"
-      height="190"
+      height="205"
     />
   </a>
 </div>
